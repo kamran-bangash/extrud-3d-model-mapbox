@@ -1,0 +1,382 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 1,
+          "name": "ground",
+          "image": "1.jpg",
+          "desc": "ground floor",
+          "color": "white",
+          "height": 12,
+          "base_height": 0,
+          "region": "Corona",
+          "price": "$309,900",
+          "area": "550 sqft",
+          "no_of_beds": "4",
+          "no_of_bathrooms": "3 full bath + 1 half bath",
+          "type": "Cando",
+          "built_in": "2004",
+          "heating": "No Data",
+          "cooling": "No Data",
+          "parking": "No Data",
+          "price_sq_feet": "$563 price/sqft",
+          "address": "10214 Lewis Ave #4L, Corona, NY 11368"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -74.00651536881924,
+                40.713522277247264
+              ],
+              [
+                -74.00617338716984,
+                40.71336369823015
+              ],
+              [
+                -74.00586292147636,
+                40.713737527328085
+              ],
+              [
+                -74.00620188564062,
+                40.713901442212126
+              ],
+              [
+                -74.00651536881924,
+                40.713522277247264
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 2,
+          "name": "first",
+          "image": "2.jpg",
+          "desc": "first floor",
+          "color": "white",
+          "height": 23,
+          "base_height": 12,
+          "region": "Rego Park",
+          "price": "$858,000",
+          "area": "1,185 sqft",
+          "no_of_beds": "2",
+          "no_of_bathrooms": "2 full bath + 1 half bath",
+          "type": "Cando",
+          "built_in": "2008",
+          "heating": "No Data",
+          "cooling": "No Data",
+          "parking": "No Data",
+          "price_sq_feet": "$724 price/sqft",
+          "address": "63-36 99th St #6H, Rego Park, NY 11374"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -74.00635845959187,
+                40.71370830215131
+              ],
+              [
+                -74.00650329887867,
+                40.71352253138
+              ],
+              [
+                -74.00617070496082,
+                40.71337081396336
+              ],
+              [
+                -74.00586862117052,
+                40.71373676493231
+              ],
+              [
+                -74.00619819760323,
+                40.71389331001033
+              ],
+              [
+                -74.00635845959187,
+                40.71370830215131
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 3,
+          "name": "second",
+          "image": "3.jpg",
+          "desc": "second floor",
+          "color": "white",
+          "height": 32,
+          "base_height": 23.5,
+          "region": "Flushing",
+          "price": "$858,000",
+          "area": "2,400 sqft",
+          "no_of_beds": "4",
+          "no_of_bathrooms": "4 full bath",
+          "type": "MultiFamily",
+          "built_in": "2008",
+          "heating": "No Data",
+          "cooling": "No Data",
+          "parking": "1 parking space",
+          "price_sq_feet": "$542 price/sqft",
+          "address": "6808 60th Ave, Flushing, NY 11378"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -74.00635845959187,
+                40.71370830215131
+              ],
+              [
+                -74.00650329887867,
+                40.71352253138
+              ],
+              [
+                -74.00617070496082,
+                40.71337081396336
+              ],
+              [
+                -74.00586862117052,
+                40.71373676493231
+              ],
+              [
+                -74.00619819760323,
+                40.71389331001033
+              ],
+              [
+                -74.00635845959187,
+                40.71370830215131
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 4,
+          "name": "third",
+          "image": "4.jpg",
+          "desc": "third floor",
+          "color": "white",
+          "height": 41,
+          "base_height": 32,
+          "region": "Flushing",
+          "price": "$399,000",
+          "area": "1,100 sqft",
+          "no_of_beds": "2",
+          "no_of_bathrooms": "1 full bath",
+          "type": "Cooperative",
+          "built_in": "1939",
+          "heating": "Wall",
+          "cooling": "No Data",
+          "parking": "On-street",
+          "price_sq_feet": "$542 price/sqft",
+          "address": "9611 65th Rd APT 113, Flushing, NY 11374"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -74.00635845959187,
+                40.71370830215131
+              ],
+              [
+                -74.00650329887867,
+                40.71352253138
+              ],
+              [
+                -74.00617070496082,
+                40.71337081396336
+              ],
+              [
+                -74.00586862117052,
+                40.71373676493231
+              ],
+              [
+                -74.00619819760323,
+                40.71389331001033
+              ],
+              [
+                -74.00635845959187,
+                40.71370830215131
+              ]
+            ]
+          ]
+        }
+      },
+    {
+        "type": "Feature",
+        "properties": {
+          "id": 5,
+          "name": "forth",
+          "image": "5.jpg",
+          "desc": "forth floor",
+          "color": "white",
+          "height": 50,
+          "base_height": 41,
+          "region": "Flushing",
+          "price": "$489,000",
+          "area": "1,100 sqft",
+          "no_of_beds": "2",
+          "no_of_bathrooms": "1 full bath",
+          "type": "Cooperative",
+          "built_in": "1962",
+          "heating": "Wall",
+          "cooling": "No Data",
+          "parking": "On-street",
+          "price_sq_feet": "--- price/sqft",
+          "address": "3731 73rd St APT 5C, Flushing, NY 11372"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -74.00635845959187,
+                40.71370830215131
+              ],
+              [
+                -74.00650329887867,
+                40.71352253138
+              ],
+              [
+                -74.00617070496082,
+                40.71337081396336
+              ],
+              [
+                -74.00586862117052,
+                40.71373676493231
+              ],
+              [
+                -74.00619819760323,
+                40.71389331001033
+              ],
+              [
+                -74.00635845959187,
+                40.71370830215131
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 6,
+          "name": "fifth",
+          "image": "6.jpg",
+          "desc": "fifth floor",
+          "color": "white",
+          "height": 59.5,
+          "base_height": 50,
+          "region": "Flushing",
+          "price": "$5,500,000",
+          "area": "2,800 sqft",
+          "no_of_beds": "4",
+          "no_of_bathrooms": "3 full bath + 1 half bath",
+          "type": "Cooperative",
+          "built_in": "1926",
+          "heating": "Wall",
+          "cooling": "No Data",
+          "parking": "On-street",
+          "price_sq_feet": "$1,964 price/sqft",
+          "address": "173 Riverside Dr #8/9B, New York, NY 10024"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -74.00635845959187,
+                40.71370830215131
+              ],
+              [
+                -74.00650329887867,
+                40.71352253138
+              ],
+              [
+                -74.00617070496082,
+                40.71337081396336
+              ],
+              [
+                -74.00586862117052,
+                40.71373676493231
+              ],
+              [
+                -74.00619819760323,
+                40.71389331001033
+              ],
+              [
+                -74.00635845959187,
+                40.71370830215131
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 7,
+          "name": "top",
+          "image": "7.jpg",
+          "desc": "top floor",
+          "color": "white",
+          "height": 67,
+          "base_height": 60,
+          "region": "Flushing",
+          "price": "$5,800,000",
+          "area": "4,800 sqft",
+          "no_of_beds": "8",
+          "no_of_bathrooms": "8 full bath",
+          "type": "Apartment",
+          "built_in": "1910",
+          "heating": "Wall",
+          "cooling": "No Data",
+          "parking": "On-street",
+          "price_sq_feet": "$1,964 price/sqft",
+          "address": "551 W 161st St, New York, NY 10032"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -74.0064737945795,
+                40.713531934290586
+              ],
+              [
+                -74.00617875158785,
+                40.713393685957854
+              ],
+              [
+                -74.00590348988771,
+                40.71372914097432
+              ],
+              [
+                -74.0061928331852,
+                40.713868659267604
+              ],
+              [
+                -74.0064737945795,
+                40.713531934290586
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  }
